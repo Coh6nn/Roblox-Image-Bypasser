@@ -1,5 +1,3 @@
-# Roblox-Image-Bypasser
-Bypass Roblox Images
 go to -> http://www.simpleimageresizer.com/
 
 Upload the image

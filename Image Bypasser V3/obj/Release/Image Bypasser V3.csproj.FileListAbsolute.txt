@@ -1,0 +1,10 @@
+c:\users\nividia\source\repos\Image Bypasser V3\Image Bypasser V3\bin\Release\Image Bypasser V3.exe.config
+c:\users\nividia\source\repos\Image Bypasser V3\Image Bypasser V3\bin\Release\Image Bypasser V3.exe
+c:\users\nividia\source\repos\Image Bypasser V3\Image Bypasser V3\bin\Release\Image Bypasser V3.pdb
+c:\users\nividia\source\repos\Image Bypasser V3\Image Bypasser V3\obj\Release\Image_Bypasser_V3.Form1.resources
+c:\users\nividia\source\repos\Image Bypasser V3\Image Bypasser V3\obj\Release\Image_Bypasser_V3.Properties.Resources.resources
+c:\users\nividia\source\repos\Image Bypasser V3\Image Bypasser V3\obj\Release\Image Bypasser V3.csproj.GenerateResource.Cache
+c:\users\nividia\source\repos\Image Bypasser V3\Image Bypasser V3\obj\Release\Image Bypasser V3.csproj.CoreCompileInputs.cache
+c:\users\nividia\source\repos\Image Bypasser V3\Image Bypasser V3\obj\Release\Image Bypasser V3.exe
+c:\users\nividia\source\repos\Image Bypasser V3\Image Bypasser V3\obj\Release\Image Bypasser V3.pdb
+c:\users\nividia\source\repos\Image Bypasser V3\Image Bypasser V3\obj\Release\Image Bypasser V3.csprojResolveAssemblyReference.cache
